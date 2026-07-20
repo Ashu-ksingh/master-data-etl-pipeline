@@ -162,3 +162,8 @@ payment method.
 - Debugging subtle, non-obvious data engineering bugs (type coercion, schema inference pitfalls)
 - HiveQL for validation and reconciliation reporting
 - Translating pipeline output into a business-facing Power BI summary
+
+## Author
+**Ashutosh Kumar Singh**
+- LinkedIn: linkedin.com/in/ashuks
+- Email: Singhashu1339@gmail.com
